@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/homeFragment"
+    android:title="Home"
+    android:icon="@drawable/hm"/>
+    <item
+        android:id="@+id/favroiteFragment"
+        android:title="Add Item"
+        android:icon="@drawable/add"/>
+<!--    <item-->
+<!--        android:id="@+id/placeFragment"-->
+<!--        android:title="Place"-->
+<!--        android:icon="@drawable/place"/>-->
+<!--    <item-->
+<!--        android:id="@+id/feedbackFragment"-->
+<!--        android:title="feedback"-->
+<!--        android:icon="@drawable/feedback"/>-->
+
+</menu>
